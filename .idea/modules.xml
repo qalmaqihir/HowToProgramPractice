@@ -7,7 +7,9 @@
       <module fileurl="file://$PROJECT_DIR$/Comparison/Comparison.iml" filepath="$PROJECT_DIR$/Comparison/Comparison.iml" />
       <module fileurl="file://$PROJECT_DIR$/HelloWorld/HelloWorld.iml" filepath="$PROJECT_DIR$/HelloWorld/HelloWorld.iml" />
       <module fileurl="file://$PROJECT_DIR$/HowToProgramPractice.iml" filepath="$PROJECT_DIR$/HowToProgramPractice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LeetCodes/LeetCodes.iml" filepath="$PROJECT_DIR$/LeetCodes/LeetCodes.iml" />
       <module fileurl="file://$PROJECT_DIR$/OOP/OOP.iml" filepath="$PROJECT_DIR$/OOP/OOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP/chp4/chp4.iml" filepath="$PROJECT_DIR$/OOP/chp4/chp4.iml" />
     </modules>
   </component>
 </project>
