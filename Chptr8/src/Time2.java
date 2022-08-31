@@ -2,6 +2,7 @@ public class Time2 {
     private int hour; // 0 - 23
     private int minute; // 0 - 59
     private int second; // 0 - 59
+    private int nanosecond;
 
     // Time2 no-argument constructor:
     // initializes each instance variable to zero
