@@ -1,5 +1,6 @@
 public class Time1Test {
     public static void main(String[] args) {
+        int nanosecond;
 //        Time1 time=new Time1();
 //        time.setTime(23,45,50);
 //        System.out.printf("Standarded Time: %s\n",time);//Can be done as time.toString()

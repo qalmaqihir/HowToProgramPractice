@@ -9,6 +9,7 @@ public class ThisTest {
 }
 class SimpleTime{
     private int hour, minute, second;
+    private int nanosecond;
     public SimpleTime(int hour, int minute, int second){
         this.hour=hour;
         this.minute=minute;

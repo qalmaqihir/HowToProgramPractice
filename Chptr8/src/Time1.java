@@ -1,5 +1,6 @@
 public class Time1 {
     private int hour, minute, second;
+    private int nanosecond;
 
     public void setTime(int hour, int minute, int second){
         if(hour>0 && hour<=24 && minute>0 && minute<=60 && second>0 && second<=60){
