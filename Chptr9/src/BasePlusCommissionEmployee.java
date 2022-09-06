@@ -30,4 +30,10 @@ public class BasePlusCommissionEmployee extends CommissionEmployee{
                 "Social Security NO. ", getSocialSecurityNumber(), "Gross salas", getGrossSales(),
                 "Commission rate",getCommissionRate(),"Base salary",getBaseSlary());
     }
+
+    /**
+     * Two options to access the private instnce variables of the super class
+     * either make them protected or use the getter methods ( as i used above)
+     */
+
 }
